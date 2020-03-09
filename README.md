@@ -18,7 +18,7 @@ The notebook can then be opened by running
 
 >jupyter notebook
 
-and opening "Hotel Reviews Sentiment Analysis.ipynb".
+and opening "Hotel Review Analysis.ipynb".
 
 NOTE: Some aspects of the project require a Google Service account - to use this in the dataset, change the %env GOOGLE_APPLICATION_CREDENTIALS line in the *Imports and Constants* section of the notebook to point to the credential file for your account. (These parts of the code WILL cost money to run, so be warned)
 
