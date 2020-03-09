@@ -45,7 +45,7 @@ While I am very proud of the work I've done on this project, I can see a number 
 - Fine tuning the LSTM Model
   - I feel more work could be done to improve the accuracy of the LSTM network, by changing the structure of the network and by further fine-tuning the hyper-parameters (possibly by using automated paramter tuning methods such as sci-kit learn's GridSearchCV or RandomizedSearchCV objects
 
--Further analysis of the effectiveness of each approach
+- Further analysis of the effectiveness of each approach
 
 - Code re-factoring
-  -At present, parts of the code - particularly parts dealing with visualisation and computing the difference between the obtained sentiment scores and the given ratings - are copy-pasted with minor changes from other parts of the project, and probably should be condensed into re-usable functions to make the project more maintainable (although, being as it is in a notebook format, I do appreciate the immediacy of having the code right next to the output)
+  - At present, parts of the code - particularly parts dealing with visualisation and computing the difference between the obtained sentiment scores and the given ratings - are copy-pasted with minor changes from other parts of the project, and probably should be condensed into re-usable functions to make the project more maintainable (although, being as it is in a notebook format, I do appreciate the immediacy of having the code right next to the output)
