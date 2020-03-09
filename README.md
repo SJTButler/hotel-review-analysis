@@ -43,7 +43,7 @@ Alternatively, a html version of the notebook is available to read at <http://ho
 While I am very proud of the work I've done on this project, I can see a number of elements that, given more time, I would work to improve, such as:
 
 - Fine tuning the LSTM Model
-  - I feel more work could be done to improve the accuracy of the LSTM network, by changing the structure of the network and by further fine-tuning the hyper-parameters (possibly by using automated paramter tuning methods such as sci-kit learn's GridSearchCV or RandomizedSearchCV objects
+  - I feel more work could be done to improve the accuracy of the LSTM network, by changing the structure of the network and by further fine-tuning the hyper-parameters (possibly by using automated paramter tuning methods such as sci-kit learn's GridSearchCV or RandomizedSearchCV objects)
 
 - Further analysis of the effectiveness of each approach
 
