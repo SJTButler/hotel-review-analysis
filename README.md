@@ -10,9 +10,9 @@ It also contains evaulations of the pros and cons of each approach, as well as t
 
 To run this project navigate to the folder you wish to download this project to in the command prompt and run
 
-> git clone https://github.com/SJTButler/hotel-review-analysis.git
+> git clone <https://github.com/SJTButler/hotel-review-analysis.git>
 
-The datasets used can be downloaded at [https://www.kaggle.com/datafiniti/hotel-reviews]. There will be three csv files available - these files should be placed unchanged into a /dataset folder
+The datasets used can be downloaded at <https://www.kaggle.com/datafiniti/hotel-reviews>. There will be three csv files available - these files should be placed unchanged into a /dataset folder
 
 The notebook can then be opened by running
 
@@ -23,7 +23,7 @@ and opening "Hotel Reviews Sentiment Analysis.ipynb".
 NOTE: Some aspects of the project require a Google Service account - to use this in the dataset, change the %env GOOGLE_APPLICATION_CREDENTIALS line in the *Imports and Constants* section of the notebook to point to the credential file for your account. (These parts of the code WILL cost money to run, so be warned)
 
 
-Alternatively, a html version of the notebook is available to read at [http://hotelreviewanalysis.sjtbutler.co.uk/]
+Alternatively, a html version of the notebook is available to read at <http://hotelreviewanalysis.sjtbutler.co.uk/>
 
 ## Libraries used 
 
